@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.11.2",
+    "cors": "^2.8.5",
+    "font-awesome": "^4.7.0",
+    "react-bootstrap-icons": "^1.10.3"
+  }
+}
